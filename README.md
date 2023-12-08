@@ -1,3 +1,5 @@
+# Programming Assignment 2: Disaster Relief
+
 **Assignment Spec:**
 
 When natural disasters strike, governments, relief organizations, and even individual donors must often wrestle with how best to allocate available resources to help those who have been affected. This is generally a very complex decision, balancing countless logistical, economic, political, and other factors. One particular challenge is that different geographic areas can require different financial or other resources for relief, even if the populations of the areas are similar. (Or, put another way, the cost to help a single person after a disaster is not always constant.) Organizations sometimes have to make difficult decisions in the hope of helping as many people as possible with the available resources.
